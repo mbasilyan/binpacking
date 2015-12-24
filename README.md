@@ -1,2 +1,2 @@
 # binpacking
-A quick sample code on using PuLP and Integer Programming to solve the 1D Bin Packing Problem in Python
+A quick sample code to demonstrate the use of PuLP & Python to solve 1D Bin Packing as an Integer Linear Programming Problem. 
